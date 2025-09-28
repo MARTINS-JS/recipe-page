@@ -20,16 +20,15 @@
   </a>
 </div>
 
-**Índice**
+**Índice:**
 
-  - [ ] **Projeto**
-    - [ ] Iniciando o projeto
-    - [ ] Estrutura HTML inicial
-    - [ ] Adicionando imagens e estilos
-    - [ ] Imagem de fundo e container page
-    - [ ] Trabalhando as fontes
-    - [ ] Personalizando espaços
-    - [ ] Adicionando o rodapé
+  - [X] Iniciando o projeto
+  - [ ] Estrutura HTML inicial
+  - [ ] Adicionando imagens e estilos
+  - [ ] Imagem de fundo e container page
+  - [ ] Trabalhando as fontes
+  - [ ] Personalizando espaços
+  - [ ] Adicionando o rodapé
 
 
 <div style="">
