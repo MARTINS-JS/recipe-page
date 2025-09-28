@@ -14,9 +14,10 @@
   </p>
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://www.figma.com/pt-br/comunidade/file/1360315130061454535/pagina-de-receita">
-    https://www.figma.com/recipe-page
+    <img alt="Recipe Page" src="./.github/figma.png" width="36"/>
+    <p><strong>Layout</strong></p>
   </a>
 </div>
 
