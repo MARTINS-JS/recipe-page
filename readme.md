@@ -24,7 +24,7 @@
 **Índice:**
 
   - [X] Iniciando o projeto
-  - [ ] Estrutura HTML inicial
+  - [X] Estrutura HTML inicial
   - [ ] Adicionando imagens e estilos
   - [ ] Imagem de fundo e container page
   - [ ] Trabalhando as fontes
