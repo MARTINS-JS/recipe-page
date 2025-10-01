@@ -25,7 +25,7 @@
 
   - [X] Iniciando o projeto
   - [X] Estrutura HTML inicial
-  - [ ] Adicionando imagens e estilos
+  - [X] Adicionando imagens e estilos
   - [ ] Imagem de fundo e container page
   - [ ] Trabalhando as fontes
   - [ ] Personalizando espaços
